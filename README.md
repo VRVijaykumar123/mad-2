@@ -26,9 +26,9 @@ Step 7: Save and run the application.
 
 Program to print the text GUIcomponent
 
-Developed by:Kathirvelan.K
+Developed by:V.R.Vijay kumar
 
-Registeration Number :212221220026
+Registeration Number :212221040178
 
 activity_main.xml
 ```
